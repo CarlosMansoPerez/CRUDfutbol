@@ -1,0 +1,71 @@
+.tamanioFoto{
+  width:20%;
+}
+.tamanioLetra{
+  font-size: 3em;
+}
+.fuente{
+  font-family: fuente;
+  src: url(fonts/MAKISUPA.TTF)
+}
+body{
+  margin: 0;
+  padding:0;
+  background-size: cover;
+}
+#container{
+  margin: auto;
+  padding: auto;
+  
+}
+.margen{
+  margin: 20px;
+}
+.borde{
+  width: 200px;
+  height: 75px;
+  margin: 30px;
+}
+.centrar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.naranja{
+  color: orangered;
+}
+.datos{
+  font-size: 1.5em;
+  padding: 5px;
+  margin: 10px;
+  color: whitesmoke;
+}
+.sombra{
+    text-shadow: 5px 4px 1px black;
+}
+.sombra2{
+    text-shadow: 5px 4px 2px orangered;
+}
+.boton{
+  width: 100%;
+  height: 100%;
+  box-shadow: 5px 10px orangered;
+}
+.boton2{
+  width: 12%;
+  height: 50px;
+  box-shadow: 5px 10px orangered;
+}
+.boton3{
+  width: 12%;
+  height: 80px;
+  box-shadow: 5px 10px orangered;
+}
+.alinearIzq{
+  top: 1000px;
+  left: 10px;
+  width: 15%;
+}
+
+
+
